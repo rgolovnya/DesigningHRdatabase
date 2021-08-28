@@ -9,6 +9,4 @@ The video game company saw explosive growth with a sudden appearance onto the ga
 ## Dataset
 The HR dataset is an Excel workbook consisting of 206 records, with eleven columns. The data is in human-readable format and was not normalized at all. The data lists the names of employees, as well as information such as job title, department, manager's name, hire date, start date, end date, work location, and salary.
 
-## IT Department Best Practices
-The IT Department has certain Best Practices policies for databases, as detailed in the Best Practices document.
 
